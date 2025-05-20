@@ -1,10 +1,6 @@
 title: Entangled Threats
 description: Cybersecurity, Web Dev & Quantum Security Portfolio
-theme: just-the-docs
-url: "https://entangledthreats.com"
-baseurl: "" # root
-color_scheme: dark
 remote_theme: just-the-docs/just-the-docs
-
-# Optional: order or hide pages
-nav_sort: true
+color_scheme: dark
+url: "https://entangledthreats.com"
+baseurl: ""
