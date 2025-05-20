@@ -4,7 +4,6 @@ theme: just-the-docs
 url: "https://entangledthreats.com"
 baseurl: "" # root
 color_scheme: dark
-footer_content: ""  # disables default footer
 
 # Optional: order or hide pages
 nav_sort: true
