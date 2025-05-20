@@ -4,7 +4,7 @@ title: Entangled Threats
 nav_order: 1
 ---
 
-# Entangled Threats
+# Entangled ThreatS
 
 **Cybersecurity, Quantum Research, and Full-Stack Engineering**
 
