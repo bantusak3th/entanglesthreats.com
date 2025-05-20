@@ -4,6 +4,7 @@ theme: just-the-docs
 url: "https://entangledthreats.com"
 baseurl: "" # root
 color_scheme: dark
+remote_theme: just-the-docs/just-the-docs
 
 # Optional: order or hide pages
 nav_sort: true
